@@ -1,0 +1,26 @@
+/*The most used Properties*/
+/*TEXT*/
+.subsection.header{
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;    
+}
+/*IMG*/
+img {
+    height: auto;
+    width: 300px;
+}
+.alert {
+    color: red;
+}
+.warning {
+    color: violet;
+}
+/* font-family : Times New Roman, sans-serif 
+   font-size : 22px 
+   Those are the generic type text.
+   If i want to adjust values img, height auto
+   and width depending of the requires.
+   The last order class is that will be execute.*/
